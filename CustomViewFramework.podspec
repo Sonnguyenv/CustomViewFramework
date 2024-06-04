@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Nguyen Van Son" => "sonnguyenv.mta@gmail.com" }
   spec.platform     = :ios, "13.4"
-  spec.source       = { :git => "https://github.com/USERNAME/CustomViewFramework.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/Sonnguyenv/CustomViewFramework.git", :tag => spec.version.to_s }
   spec.source_files = "CustomViewFramework/**/*.{swift}"
   spec.swift_versions = "5.0"
 

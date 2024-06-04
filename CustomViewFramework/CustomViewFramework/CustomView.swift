@@ -23,7 +23,7 @@ public class CustomView: UIView {
 
     // Phương thức thiết lập (setup) được giữ kín
     private func setupView() {
-        self.backgroundColor = .red
+        self.backgroundColor = .gray
     }
     
     // Phương thức công khai để thay đổi màu nền
